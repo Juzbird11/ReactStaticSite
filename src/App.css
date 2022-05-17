@@ -5,7 +5,7 @@
 .pages {
     width: 80vw;
     margin: auto;
-    padding: 25px 50px;
+    /* padding: 25px 50px; */
 }
 
 table {
@@ -24,11 +24,6 @@ table td {
     text-align: start;
     padding: 5px;
     border-bottom: 2px solid #E7EFDA;
-}
-
-.d-flex {
-    display: flex;
-    justify-content: space-between;
 }
 
 .center {
