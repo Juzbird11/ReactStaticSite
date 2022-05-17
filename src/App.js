@@ -8,7 +8,9 @@ let App = () => {
   return (
     <main className="App">
         <Header/>
-        <Router />
+        <div className="pages">
+          <Router />
+        </div>
         <Footer />
       </main>
   )

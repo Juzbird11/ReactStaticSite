@@ -1,9 +1,8 @@
-import "./JobVacancy.css";
 
 const JobVacancy = () => (
     <div className="JobVacancy">
         <h2>JOB VACANCY</h2>
-        <div className="text-center">
+        <div>
             <h3>Deputy Head – SENCO job advertisement</h3>
             <p>
                 A wonderful opportunity has arisen at our Montessori setting for a passionate, positive and committed Montessori teacher to join us as Deputy Headteacher. At Maple Montessori, our warm and supportive team strives to offer a truly child-focused, peaceful Early Years experience.
@@ -24,7 +23,8 @@ const JobVacancy = () => (
             <p>Full-time position (term time only).</p>
             <p>We are committed to safeguarding and promoting children’s welfare. DBS checks required.</p>
         </div>
-        <div className="text-center">
+
+        <div>
             <h3>Montessori Directress and Montessori Assistant</h3>
             <p>
                 If you are gifted and passionate educator who is eager to transform the learning experiences for children, this could be a special opportunity for you.

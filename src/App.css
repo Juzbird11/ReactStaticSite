@@ -1,3 +1,122 @@
 .App {
   
 }
+
+.pages {
+    width: 80vw;
+    margin: auto;
+    padding: 25px 50px;
+}
+
+table {
+    table-layout: collapse;
+    width: 100%;
+    margin: auto;
+}
+
+table th {
+    background-color: #E7EFDA;
+    color: #110;
+    padding: 5px;
+}
+
+table td {
+    text-align: start;
+    padding: 5px;
+    border-bottom: 2px solid #E7EFDA;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.center {
+    text-align: center;
+}
+
+.text-start {
+    text-align: start;
+}
+
+.Hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5EEDA;
+    padding-bottom: 125px;
+    padding-top: 100px;
+}
+
+.about-the-school p {
+    text-align: start;
+}
+
+.about-the-head-teacher p {
+    margin: 35px auto;
+    line-height: 2rem;
+    text-align: start;
+}
+
+.term-date ul {
+    list-style-type: none;
+}
+
+.JobVacancy {
+    text-align: start;
+    width: 80vw;
+    margin: auto;
+}
+
+.JobVacancy h2 {
+    text-align: center;
+}
+
+.JobVacancy div {
+    margin-top: 50px;
+    text-align: start;
+}
+
+.feesCard {
+    border: 1px solid green;
+    padding: 5px 80px;
+    background-color: #fff1ce;
+}
+
+.feesCard div {
+    line-height: 1.8rem;
+}
+
+h1 {
+    margin: 0;
+}
+
+.m-10 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.text-start {
+    text-align: start;
+}
+
+div {
+    text-align: center;
+}
+
+.hero-img {
+    margin-top: -125px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.location {
+    width: 100%;
+}
+
+.Footer {
+    background-color: #000;
+    color: rgba(255, 255, 255, 0.726);
+    padding: 20px;
+}
